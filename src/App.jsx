@@ -54,6 +54,7 @@ function App() {
             onChange={(e) => setQuantidade(e.target.value)}
           />
         </div>
+
         <div className="input-valorUnitario">
           <input
             type="number"
